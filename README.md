@@ -1,6 +1,6 @@
 # Installation
 
-1. To set the virtual environment to run this tutorial we will use conda. If you do not have, I recommend the [Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/)
+1. To set the virtual environment to run this tutorial we will use conda. If you do not have, I recommend the [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 2. In Windows, during the installation process to avoid conflicts with possible whitespaces in the path, install in the folder:
 
