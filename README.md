@@ -53,17 +53,17 @@
 6. To open JupyterLab:
 
     ```bash
-      jupyter lab
+    jupyter lab
     ```
 
 7. Deactivate the current environment, to change to the other one or to remove:
 
     ```bash
-      conda deactivate
+    conda deactivate
     ```
 
 8. If you want to delete the virtual environment, first it needs to be deactivated:
 
     ```bash
-      conda env remove --name <name-of-environment>
+    conda env remove --name <name-of-environment>
     ```
