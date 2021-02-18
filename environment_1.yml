@@ -1,0 +1,21 @@
+name: JW_LaSEEB_1
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - seaborn
+  - scikit-learn
+  - pip
+  - pip:
+      - "jedi==0.17.2"
+      - "parso==0.7.1"
+      - ipympl
+      - "jupyterlab==3"
+      - "jupyter-lsp==1.1.3"
+      - "jupyterlab-lsp==3.4.0"
+      - python-language-server[all]
+      - jupyterlab_code_formatter
+      - pydicom
+      - black
+      - isort
+      - matplotlib
