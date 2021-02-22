@@ -6,6 +6,7 @@ dependencies:
   - seaborn
   - scikit-learn
   - pip
+  - tqdm
   - pip:
       - "jedi==0.17.2"
       - "parso==0.7.1"
